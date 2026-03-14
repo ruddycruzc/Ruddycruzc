@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Ruddy</h1>
 
+<p align="center">
+💻 Estudiante de desarrollo web <br>
+🚀 Aprendiendo HTML, CSS y JavaScript <br>
+🎯 Construyendo proyectos para mejorar cada día
+</p>
 <!--
 **ruddycruzc/Ruddycruzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
