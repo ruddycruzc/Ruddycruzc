@@ -5,17 +5,23 @@
 🚀 Aprendiendo HTML, CSS y JavaScript <br>
 🎯 Construyendo proyectos para mejorar cada día
 </p>
-<!--
-**ruddycruzc/Ruddycruzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Actualmente estoy aprendiendo
 
-Here are some ideas to get you started:
+- HTML semántico
+- CSS responsive
+- JavaScript
+- Git y GitHub
+- Diseño web
+  
+## 🧪 Experimentos actuales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ peleándome con CSS  
+🐛 cazando bugs en JavaScript  
+🧠 intentando pensar como un programador
+
+## 🛠 Tecnologías
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=ruddycruzc&theme=tokyonight)
