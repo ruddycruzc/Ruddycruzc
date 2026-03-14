@@ -5,23 +5,29 @@
 🚀 Aprendiendo HTML, CSS y JavaScript <br>
 🎯 Construyendo proyectos para mejorar cada día
 </p>
-## 🌱 Actualmente estoy aprendiendo
+
+## 🌱 Actualmente estoy aprendiendo                                        
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"></p>
 
 - HTML semántico
 - CSS responsive
 - JavaScript
 - Git y GitHub
 - Diseño web
-  
-## 🧪 Experimentos actuales
 
-⚡ peleándome con CSS  
-🐛 cazando bugs en JavaScript  
-🧠 intentando pensar como un programador
 
-## 🛠 Tecnologías
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
+
+## 🚀 Proyecto destacado
+
+🛒 Tech Shop  
+https://ruddycruzc.github.io/tech-shop/
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddycruzc&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ruddycruzc&theme=tokyonight)
