@@ -21,9 +21,8 @@
 </p>
 
 ## 🚀 Proyecto destacado
-
-🛒 Tech Shop  
-https://ruddycruzc.github.io/tech-shop/
+Nueva imagen de una empresa IT Gijonesa. 
+https://tactica-tic-dev.web.app/
 
 ## 📊 Estadísticas
 
