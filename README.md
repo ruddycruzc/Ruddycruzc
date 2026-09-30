@@ -63,7 +63,7 @@ What started with HTML, CSS and JavaScript became something much bigger: **I fou
 
 ---
 
-# 🛠️ `tech.stack()`
+# `tech.stack()`
 
 ### Frontend
 
